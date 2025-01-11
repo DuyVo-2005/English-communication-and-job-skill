@@ -1,0 +1,6 @@
+# Chapter 1: Introduction
+known fact: sự thật đã biết
+implicit meaning: nghĩa ngầm" hoặc "ý ngầm".
+Mini-world: mô hình hoặc phiên bản thu nhỏ của thế giới thực
+facilitate v: "tạo điều kiện" hoặc "hỗ trợ"
+simplified a: đơn giản hóa
