@@ -10,9 +10,17 @@ by withdrawing money: bằng cách rút tiền
 
 concurrent access n: truy cập đồng thời
 
+conform entirely n: hoàn toàn tuân theo
+
 drawbacks n: "nhược điểm" hoặc "hạn chế."
 
 data isolation n: "cô lập dữ liệu."
+
+data semantics n: ngữ nghĩa dữ liệu
+
+entity-relationship data model n: mô hình dữ liệu thực thể-kết hợp
+
+foundational concept n: khái niệm cơ bản
 
 known fact: sự thật đã biết
 
@@ -44,6 +52,8 @@ schemas n: lược đồ
 
 order tracking v: theo dõi đơn hàng
 
+object-based data model n: mô hình dữ liệu dựa trên đối tượng
+
 customized recommendations n: gợi ý tùy chỉnh
 
 inventory n: kho hàng
@@ -52,7 +62,13 @@ orders n: thứ tự
 
 supply chain n: chuỗi cung ứng
 
+semistructure data model n: mô hình dữ liệu bán cấu trúc
+
 tax deduction n: khoản khấu trừ thuế (từ thiện, y tế, giáo dục)
+
+versatile markup language n: ngôn ngữ đánh dấu đa dụng
+
+XML - eXtended Markup Language n: Ngôn ngữ đánh dấu mở rộng
 
 instructors and course n: giảng viên (hoặc "người hướng dẫn) và khóa học
 
