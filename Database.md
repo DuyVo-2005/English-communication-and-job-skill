@@ -1,5 +1,7 @@
 # Chapter 1: Introduction
 
+analogous to a: "tương tự như" hoặc "giống như"
+
 atomicity of updates n: tính nguyên tử của các cập nhật (phải được thực hiện hoàn toàn hoặc không thực hiện gì cả [để đủ dữ liệu hàng bảng ghi])
 
 buried vpp: chôn vùi
@@ -18,6 +20,8 @@ implicit meaning: nghĩa ngầm" hoặc "ý ngầm".
 
 integrity problem n: vấn đề toàn vẹn
 
+instance n: thể hiện (value of variable)
+
 Mini-world: mô hình hoặc phiên bản thu nhỏ của thế giới thực
 
 facilitate v: "tạo điều kiện" hoặc "hỗ trợ"
@@ -35,6 +39,8 @@ registration n: sự đăng ký, ghi danh
 read a balance v: đọc số dư
 
 stated explicitly n: nêu rõ ràng hoặc nói rõ ràng
+
+schemas n: lược đồ
 
 order tracking v: theo dõi đơn hàng
 
