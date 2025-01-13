@@ -23,3 +23,5 @@ self-healing: tự phục hồi
 self-discovery n: tự khám phá
 
 self-matchmaking n: tự ghép nối
+
+Platform n: nền tảng
