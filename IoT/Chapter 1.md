@@ -1,6 +1,8 @@
+actuators n: bộ truyền động (are devices that convert electrical signals into physical actions)
+
 adaptation n: sự thích nghi, sự thích ứng
 
-actuators n: bộ truyền động (are devices that convert electrical signals into physical actions)
+adjust thermostats v: điều chỉnh bộ điều nhiệt
 
 disruptions n: những gián đoạn
 
@@ -9,6 +11,8 @@ disturbances n: sự xáo trộn
 human intervention n: sự can thiệp của con người
 
 interfere with v: can thiệp vào 
+
+open valves v: mở van
 
 self-healing: tự phục hồi
 
