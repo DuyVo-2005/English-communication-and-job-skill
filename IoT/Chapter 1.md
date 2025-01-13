@@ -36,6 +36,8 @@ self-discovery n: tự khám phá
 
 self-matchmaking n: tự ghép nối
 
+semantics n: ngữ nghĩa (việc hiểu và diễn giải đúng ý nghĩa của dữ liệu được thu thập và truyền tải giữa các thiết bị IoT)
+
 Platform n: nền tảng
 
 Technology remain fragmented: Công nghệ vẫn còn phân mảnh
