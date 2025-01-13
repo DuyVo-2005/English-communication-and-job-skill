@@ -10,7 +10,11 @@ disturbances n: sự xáo trộn
 
 human intervention n: sự can thiệp của con người
 
+intermediaries n: trung gian
+
 interfere with v: can thiệp vào 
+
+IoT gateway n: cổng IoT (are devices that act as intermediaries between IoT devices and the cloud, enabling communication and data transfer between them)
 
 open valves v: mở van
 
