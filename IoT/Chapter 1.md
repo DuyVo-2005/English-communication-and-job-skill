@@ -1,3 +1,5 @@
+absense of governance n: thiếu vắng người quản trị
+
 actuators n: bộ truyền động (are devices that convert electrical signals into physical actions)
 
 adaptation n: sự thích nghi, sự thích ứng
@@ -14,7 +16,9 @@ desirable app n: "ứng dụng mong muốn" hoặc "ứng dụng đáng mơ ư�
 
 enabling technology n: công nghệ hỗ trợ (tạo điều kiện cho các quy trình mới hoặc cải thiện quy trình hiện có)
 
-ensure seamless data transmission v: 
+foster innovation v: thúc đẩy sự đổi mới
+
+seamless a: liền một mảnh
 
 human intervention n: sự can thiệp của con người
 
@@ -33,6 +37,8 @@ self-discovery n: tự khám phá
 self-matchmaking n: tự ghép nối
 
 Platform n: nền tảng
+
+Technology remain fragmented: Công nghệ vẫn còn phân mảnh
 
 ubiquitous a: phổ biến khắp nơi
 
