@@ -1,4 +1,6 @@
-adaptation n: sự thích nghi, sự thích ứng;
+adaptation n: sự thích nghi, sự thích ứng
+
+actuators n: bộ truyền động (are devices that convert electrical signals into physical actions)
 
 disruptions n: những gián đoạn
 
