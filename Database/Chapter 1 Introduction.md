@@ -40,6 +40,8 @@ facilitate v: "tạo điều kiện" hoặc "hỗ trợ"
 
 simplified a: đơn giản hóa
 
+specification notation n: "ký hiệu đặc tả" hoặc "ký hiệu mô tả"
+
 Particular enterprise n: doanh nghiệp cụ thể.
 
 inconsistency n: "sự không nhất quán" hoặc "mâu thuẫn."
