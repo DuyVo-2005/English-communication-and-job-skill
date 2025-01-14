@@ -16,6 +16,8 @@ drawbacks n: "nhược điểm" hoặc "hạn chế."
 
 data isolation n: "cô lập dữ liệu."
 
+data manipulation language (DML) n: Ngôn ngữ thao tác dữ liệu
+
 data semantics n: ngữ nghĩa dữ liệu
 
 entity-relationship data model n: mô hình dữ liệu thực thể-kết hợp
@@ -31,6 +33,8 @@ integrity problem n: vấn đề toàn vẹn
 instance n: thể hiện (value of variable)
 
 Mini-world: mô hình hoặc phiên bản thu nhỏ của thế giới thực
+
+object-relational n: quan hệ đối tượng
 
 facilitate v: "tạo điều kiện" hoặc "hỗ trợ"
 
@@ -65,6 +69,8 @@ supply chain n: chuỗi cung ứng
 semistructure data model n: mô hình dữ liệu bán cấu trúc
 
 tax deduction n: khoản khấu trừ thuế (từ thiện, y tế, giáo dục)
+
+tabular data n: dữ liệu dạng bảng
 
 versatile markup language n: ngôn ngữ đánh dấu đa dụng
 
