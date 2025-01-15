@@ -10,3 +10,6 @@ Mô hình cơ sở dữ liệu phân cấp (tiếng Anh: hierarchical database m
 
 
 Mô hình quan hệ dữ liệu, tiếng anh là Relational Data Model, biểu diễn cơ sở dữ liệu dưới dạng một tập hợp các quan hệ, trong đó một quan hệ là một bảng chứa các giá trị của các dữ liệu. Mỗi hàng trong bảng đại diện cho các giá trị của dữ liệu đó
+
+
+mô hình thực thể kết hợp dùng thực thể để mô tả cấu trúc và quan hệ của các đối tượng 
