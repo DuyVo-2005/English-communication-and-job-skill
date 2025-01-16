@@ -1,3 +1,5 @@
+# Chapter 1
+
 authorized entities n: "các thực thể được ủy quyền" hoặc "các thực thể được phép"
 
 compromise host n: "máy chủ bị xâm nhập" hoặc "máy chủ bị tấn công"
