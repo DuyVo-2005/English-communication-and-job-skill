@@ -8,3 +8,9 @@ mainframe n: máy tính lớn (là loại máy tính công suất cao, thường
 
 workstation n: "máy trạm" (là loại máy tính được thiết kế cho các tác vụ yêu cầu hiệu suất cao như đồ họa, kỹ thuật, thiết kế và mô phỏng. Máy trạm thường mạnh mẽ hơn so với máy tính cá nhân thông thường và thường được sử dụng trong các môi trường chuyên nghiệp như công ty, phòng thí nghiệm và trung tâm nghiên cứu)
 
+## book exercise
+
+take on v: Đảm nhận, Đối đầu, Thuê, tuyển dụng
+
+### 2/6
+1 C, 2 D, 3 D
