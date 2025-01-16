@@ -40,4 +40,5 @@ tear it down v: "phá hủy" hoặc "tháo dỡ"
 
 Trojan horses n: "ngựa Trojan" hoặc "phần mềm Trojan" (là một loại phần mềm độc hại giả dạng phần mềm hợp pháp để lừa người dùng cài đặt nó. Khi được cài đặt, nó có thể thực hiện nhiều hành động gây hại như đánh cắp dữ liệu, giám sát hoạt động, và tạo cửa hậu để kẻ tấn công có thể truy cập vào hệ thống)
 
+
 # 
