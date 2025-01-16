@@ -22,6 +22,8 @@ outline n, v: phát thảo
 
 Perimeter n: chu vi (là ranh giới bảo mật giữa mạng nội bộ được bảo vệ và mạng bên ngoài không được tin cậy, chẳng hạn như Internet)
 
+Recoverability (availability) n: khả năng phục hồi
+
 Security breaches n: "vi phạm an ninh" hoặc "lỗ hổng an ninh"
 
 Social engineering n: kỹ nghệ xã hội
