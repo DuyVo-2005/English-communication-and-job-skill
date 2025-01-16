@@ -1,12 +1,18 @@
 # Chapter 2 - Scanning network 
 
+banner n: biểu ngữ (thông báo hoặc thông tin hiển thị khi truy cập vào một hệ thống hoặc dịch vụ mạng)
+
 Banner grabbing (OS fingerprinting) n: thu thập thông tin banner (gửi các yêu cầu đơn giản và phân tích các phản hồi: phiên bản phần mềm, hệ điều hành và các thông tin cấu hình,...)
 
 evasion Technique n: công nghệ lãng tránh
 
+exploit v: khai thác
+
 IDS - Intrusion Detection System n: Hệ thống Phát hiện Xâm nhập (gồm Network-based IDS (NIDS), Host-based IDS (HIDS))
 
 mechanism n: cơ chế
+
+misguide['mis'gaid] v: làm cho lạc đường, làm lạc lối
 
 scanning methodology n: phương pháp luận quét
 
@@ -21,6 +27,8 @@ Source routing là một phương pháp trong mạng máy tính cho phép ngư�
 spoof ip address v: giả mạo địa chỉ IP
 
 penetration testing n: kiểm tra xâm nhập
+
+poses v: đưa ra, phô ra
 
 Proxies n: máy chủ trung gian hoặc phần mềm trung gian (chuyển tiếp các yêu cầu từ máy khách tới máy chủ đích và ngược lại - Forward Proxy [loại proxy mà máy khách sử dụng để truy cập internet], Reverse Proxy [loại proxy mà máy chủ đích sử dụng để xử lý các yêu cầu từ máy khách], Anonymous Proxy[ẩn địa chỉ IP thực của họ khi truy cập internet], Transparent Proxy [Không ẩn địa chỉ IP thực của người dùng và không thay đổi nội dung của các yêu cầu]
 
