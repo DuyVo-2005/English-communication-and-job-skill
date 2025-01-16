@@ -1,8 +1,14 @@
 # Chapter 2 - Scanning network 
 
+associating services v: liên kết dịch vụ
+
 banner n: biểu ngữ (thông báo hoặc thông tin hiển thị khi truy cập vào một hệ thống hoặc dịch vụ mạng)
 
 Banner grabbing (OS fingerprinting) n: thu thập thông tin banner (gửi các yêu cầu đơn giản và phân tích các phản hồi: phiên bản phần mềm, hệ điều hành và các thông tin cấu hình,...)
+
+evade a traceback v: tránh bị truy vết, tránh để lại dấu vết hoặc ngăn chặn việc tạo ra traceback
+
+calibrate (fireware rule) v: hiệu chỉnh
 
 evasion Technique n: công nghệ lãng tránh
 
@@ -33,6 +39,8 @@ poses v: đưa ra, phô ra
 Proxies n: máy chủ trung gian hoặc phần mềm trung gian (chuyển tiếp các yêu cầu từ máy khách tới máy chủ đích và ngược lại - Forward Proxy [loại proxy mà máy khách sử dụng để truy cập internet], Reverse Proxy [loại proxy mà máy chủ đích sử dụng để xử lý các yêu cầu từ máy khách], Anonymous Proxy[ẩn địa chỉ IP thực của họ khi truy cập internet], Transparent Proxy [Không ẩn địa chỉ IP thực của người dùng và không thay đổi nội dung của các yêu cầu]
 
 proxies sever n: máy chủ proxy (hoạt động như một trung gian giữa máy tính của bạn và internet giúp cải thiện bảo mật, tăng cường quyền riêng tư và có thể hỗ trợ trong việc kiểm soát và giám sát lưu lượng truy cập mạng)
+
+simulate v: mô phỏng
 
 spyware n: phần mềm gián điệp (là một loại phần mềm độc hại được cài đặt trên thiết bị của bạn mà không có sự cho phép của bạn. Nó có thể theo dõi hoạt động của bạn, thu thập thông tin cá nhân và gửi thông tin này đến các bên thứ ba)
 
