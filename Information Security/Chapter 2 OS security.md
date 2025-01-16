@@ -14,6 +14,10 @@ Scan detect v: quét phát hiện
 
 scanning pen testing n: Kiểm tra thử xâm nhập
 
+Source routing là một phương pháp trong mạng máy tính cho phép người gửi của gói tin xác định đường đi mà gói tin sẽ đi qua trên mạng thay vì để các router trung gian tự quyết định (Strict Source Routing: Người gửi chỉ định một danh sách cụ thể các địa chỉ mà gói tin phải đi qua theo thứ tự, Loose Source Routing: Người gửi chỉ định một danh sách các địa chỉ mà gói tin phải đi qua, nhưng không bắt buộc phải theo thứ tự cụ thể và có thể đi qua các điểm khác)
+
+spoof ip address v: giả mạo địa chỉ IP
+
 Banner grabbing n: thu thập thông tin banner (gửi các yêu cầu đơn giản và phân tích các phản hồi: phiên bản phần mềm, hệ điều hành và các thông tin cấu hình,...)
 
 penetration testing n: kiểm tra xâm nhập
