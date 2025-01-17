@@ -16,6 +16,8 @@ exploit v: khai thác
 
 IDS - Intrusion Detection System n: Hệ thống Phát hiện Xâm nhập (gồm Network-based IDS (NIDS), Host-based IDS (HIDS))
 
+locate active device v: xác định vị trí thiết bị đang hoạt động
+
 mechanism n: cơ chế
 
 misguide['mis'gaid] v: làm cho lạc đường, làm lạc lối
