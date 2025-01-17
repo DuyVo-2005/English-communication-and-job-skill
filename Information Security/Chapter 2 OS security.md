@@ -1,4 +1,4 @@
-# Chapter 2 - Scanning network 
+# Chapter 2.1 - Scanning network 
 
 associating services v: liên kết dịch vụ
 
@@ -51,4 +51,8 @@ tear it down v: "phá hủy" hoặc "tháo dỡ"
 Trojan horses n: "ngựa Trojan" hoặc "phần mềm Trojan" (là một loại phần mềm độc hại giả dạng phần mềm hợp pháp để lừa người dùng cài đặt nó. Khi được cài đặt, nó có thể thực hiện nhiều hành động gây hại như đánh cắp dữ liệu, giám sát hoạt động, và tạo cửa hậu để kẻ tấn công có thể truy cập vào hệ thống)
 
 
-# 
+# Chapter 2.2 - Operating system security
+
+encompass[ɪnˈkʌmpəs] v: vây quanh, bao quanh
+
+utility[juːˈtɪləti] n: tiện ích
