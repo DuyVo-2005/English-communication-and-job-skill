@@ -56,3 +56,5 @@ Trojan horses n: "ngựa Trojan" hoặc "phần mềm Trojan" (là một loại 
 encompass[ɪnˈkʌmpəs] v: vây quanh, bao quanh
 
 utility[juːˈtɪləti] n: tiện ích
+
+kernel n: nhân
