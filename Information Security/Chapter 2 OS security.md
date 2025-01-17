@@ -4,7 +4,7 @@ associating services v: liên kết dịch vụ
 
 banner n: biểu ngữ (thông báo hoặc thông tin hiển thị khi truy cập vào một hệ thống hoặc dịch vụ mạng)
 
-Banner grabbing (OS fingerprinting) n: thu thập thông tin banner (gửi các yêu cầu đơn giản và phân tích các phản hồi: phiên bản phần mềm, hệ điều hành và các thông tin cấu hình,...)
+Banner grabbing (OS fingerprinting) n: thu thập thông tin banner (gửi các yêu cầu đơn giản và phân tích các phản hồi: phiên bản phần mềm, hệ điều hành và các thông tin cấu hình,...gồm 2 loại active: kẻ tấn công gửi các gói tin đến các cổng mở trên hệ thống mục tiêu để thu thập thông tin về dịch vụ đang chạy trên các cổng đó. Điều này có thể bao gồm thông tin về phiên bản của dịch vụ, hệ điều hành; passive: kẻ tấn công không gửi gói tin đến hệ thống mục tiêu mà chỉ lắng nghe và thu thập các gói tin mà hệ thống tự động gửi ra. Điều này có thể bao gồm các banner hoặc thông báo từ các dịch vụ mà hệ thống đang chạy, mà không cần phải gây ra sự can thiệp)
 
 evade a traceback v: tránh bị truy vết, tránh để lại dấu vết hoặc ngăn chặn việc tạo ra traceback
 
