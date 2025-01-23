@@ -4,6 +4,8 @@ arbitrary[ˈɑːbɪtrəri] order n: thứ tự tùy ý
 
 atomic[əˈtɒmɪk] a: (thuộc) nguyên tử
 
+Credit hours n: giờ tín chỉ
+
 dept abr: department
 
 deal with v: "xử lý” hoặc “giải quyết”
@@ -16,7 +18,12 @@ referenced relation n: quan hệ được tham chiếu
 
 referencing relation n: quan hệ tham chiếu
 
+retrieve[rɪˈtriːv] v: liệt kê, lấy, phục hồi
+
 schema diagram n: "lược đồ sơ đồ” hoặc “sơ đồ cấu trúc”
+
+section[ˈsekʃn] n: sự cắt, chỗ cắt, bộ phận, khu vực, tiết diện, học phần
+
 
 set difference of two relations n: hiệu của hai quan hệ
 
