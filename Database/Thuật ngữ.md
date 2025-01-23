@@ -13,3 +13,9 @@ Mô hình quan hệ dữ liệu, tiếng anh là Relational Data Model, biểu d
 
 
 mô hình thực thể kết hợp dùng thực thể để mô tả cấu trúc và quan hệ của các đối tượng 
+
+# Ký hiệu:
+
+σ: select tuple
+
+Π: select column(s)
