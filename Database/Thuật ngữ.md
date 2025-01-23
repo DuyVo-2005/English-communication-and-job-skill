@@ -19,3 +19,8 @@ mô hình thực thể kết hợp dùng thực thể để mô tả cấu trúc
 σ: select tuple
 
 Π: select column(s)
+
+∪
+
+∩
+
