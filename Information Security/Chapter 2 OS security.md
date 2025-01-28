@@ -62,3 +62,5 @@ measure in place n: "biện pháp được thực hiện" hoặc "biện pháp �
 utility[juːˈtɪləti] n: tiện ích
 
 kernel n: nhân
+
+patching n: "vá lỗi" hoặc "sửa chữa".
