@@ -55,6 +55,10 @@ Trojan horses n: "ngựa Trojan" hoặc "phần mềm Trojan" (là một loại 
 
 encompass[ɪnˈkʌmpəs] v: vây quanh, bao quanh
 
+maintain v: bảo trì
+
+measure in place n: "biện pháp được thực hiện" hoặc "biện pháp đã được triển khai".
+
 utility[juːˈtɪləti] n: tiện ích
 
 kernel n: nhân
