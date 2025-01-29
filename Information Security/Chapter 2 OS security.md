@@ -16,6 +16,8 @@ exploit v: khai thác
 
 IDS - Intrusion Detection System n: Hệ thống Phát hiện Xâm nhập (gồm Network-based IDS (NIDS), Host-based IDS (HIDS))
 
+IPS (Intrusion Prevention System): Hệ thống ngăn chặn xâm nhập. (Đây là một hệ thống an ninh mạng được thiết kế để phát hiện và ngăn chặn các hoạt động độc hại bằng cách giám sát lưu lượng mạng và chặn các cuộc tấn công tiềm ẩn)
+
 locate active device v: xác định vị trí thiết bị đang hoạt động
 
 mechanism n: cơ chế
