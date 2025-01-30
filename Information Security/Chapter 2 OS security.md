@@ -61,10 +61,16 @@ maintain v: bảo trì
 
 measure in place n: "biện pháp được thực hiện" hoặc "biện pháp đã được triển khai".
 
+meet some legal aspects v: đáp ứng một số khía cạnh pháp lý
+
 utility[juːˈtɪləti] n: tiện ích
 
 kernel n: nhân
 
 patching n: "vá lỗi" hoặc "sửa chữa".
+
+parse messages v: phân tích cú pháp tin nhắn 
+
+revise critical software v: sửa đổi phần mềm quan trọng
 
 Whitelisting n: quá trình xác định và cấp phép cho một tập hợp các thực thể được tin tưởng và cho phép thực hiện một số hành động cụ thể trong hệ thống hoặc mạng (ip, user, email, ứng dụng có tên trong danh sách mới được truy cập vào mạng hoặc hệ thống)
