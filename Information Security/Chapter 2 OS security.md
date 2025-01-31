@@ -55,6 +55,10 @@ Trojan horses n: "ngựa Trojan" hoặc "phần mềm Trojan" (là một loại 
 
 # Chapter 2.2 - Operating system security
 
+consistent naming convention n: quy ước đặt tên nhất quán
+
+Deals with privileges and rights v: Xử lý các đặc quyền và quyền lợi
+
 encompass[ɪnˈkʌmpəs] v: vây quanh, bao quanh
 
 maintain v: bảo trì
