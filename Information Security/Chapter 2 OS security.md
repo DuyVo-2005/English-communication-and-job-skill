@@ -55,11 +55,19 @@ Trojan horses n: "ngựa Trojan" hoặc "phần mềm Trojan" (là một loại 
 
 # Chapter 2.2 - Operating system security
 
+archive n: kho lưu trữ 
+
+connectivity[kəˌnekˈtɪvəti] n: nối, liên kết
+
 consistent naming convention n: quy ước đặt tên nhất quán
 
 Deals with privileges and rights v: Xử lý các đặc quyền và quyền lợi
 
 encompass[ɪnˈkʌmpəs] v: vây quanh, bao quanh
+
+exchange files v: trao đổi tập tin
+
+intentionally[ɪnˈtenʃənəli] adv: alcố ý, cố tình
 
 maintain v: bảo trì
 
@@ -75,6 +83,10 @@ patching n: "vá lỗi" hoặc "sửa chữa".
 
 parse messages v: phân tích cú pháp tin nhắn 
 
+signaled v: đã báo hiệu 
+
 revise critical software v: sửa đổi phần mềm quan trọng
+
+web portal n: cổng thông tin web
 
 Whitelisting n: quá trình xác định và cấp phép cho một tập hợp các thực thể được tin tưởng và cho phép thực hiện một số hành động cụ thể trong hệ thống hoặc mạng (ip, user, email, ứng dụng có tên trong danh sách mới được truy cập vào mạng hoặc hệ thống)
