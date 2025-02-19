@@ -9,3 +9,9 @@ cashpoint: = atm (teller)
 verify[ˈverɪfaɪ]: xác minh, kiểm tra
 
 airport control towers: tháp kiểm soát không lưu sân bay".
+
+regulate[ˈreɡjuleɪt]: điều chỉnh 
+
+regulate[ˈreɡjuleɪt]: điều chỉnh 
+
+air traffic: giao thông hàng không" hoặc "lưu lượng không lưu"
