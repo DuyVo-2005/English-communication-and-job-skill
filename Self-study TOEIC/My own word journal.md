@@ -12,5 +12,5 @@
 |obligate v|to bind legally or morally|bắt buộc, ép buộc|The contractor was obligated by the contract to work 40 hours a week|I felt obligated to finish the project even though I could have exercised my option to quit|
 |party n|a person or group participating in an action or plan; the persons or sides concerned in a legal matter||The parties agreed to a settlement in their contract dispute|The party that prepares the contract has a distinct advantage|
 |provision n|a measure taken beforehand; a stipulation||The father made provisions for his children through his will|The contract contains a provision to deal with how payments are made if John loses his job|
-|resolve v|to deal with successfully; to declare; n. conviction||The mediator was able to resolve the problem to everyone's satisfaction|The businessman resolved to clean out all the files by the end of the week|
+|resolve |v. to deal with successfully; to declare; n. conviction||The mediator was able to resolve the problem to everyone's satisfaction|The businessman resolved to clean out all the files by the end of the week|
 |specific adj|particular||The customer's specific complaint was not addressed in his e-mail|In a contract, one specific word can change the meaning dramatically|
