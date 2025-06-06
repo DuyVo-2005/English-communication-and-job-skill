@@ -1,4 +1,6 @@
-##
+## Main word
+|Word|Definition|Meaning|Example 1|Example 2|
+|---|---|---|---|---|
 |attract v|to draw by appeal|Thu hút, hấp dẫn, lôi cuốn (bằng sự kêu gọi)|The display attracted a number of people at the convention|The new advertising attracts the wrong kind of customer into the store|
  |compare v|to examine similarities and differences|so sánh, ví|Once the customer compared the two products, her choice was easy|The price for this brand is high compared to the other brands on the market|
  |competition n|a contest or struggle|Sự đua tranh, cuộc thi đấu|In the competition for afternoon diners, Duy's has come out on top|The company has decided not to join the growing competition for dominance in the semiconductor market|
@@ -19,7 +21,8 @@
 4. sluggishly[ˈslʌɡɪʃli] a: chậm chạp; lờ đờ
 5. conviction[kənˈvɪkʃn] n: sự kết án, sự kết tội; sự tin chắc; sức thuyết phục
 6. realize his dream: hiện thực hóa giấc mơ của anh ấy
-7. So sánh persuade và convince 
+7. So sánh persuade và convince
+
 | Từ           | Nghĩa chính                                | Tập trung vào |
 | ------------ | ------------------------------------------ | ------------- |
 | **Persuade** | Thuyết phục ai đó **làm** một việc gì      | **Hành động** |
