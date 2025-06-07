@@ -41,3 +41,37 @@
 10. compared
 11. competes
 12. fad
+## Listening
+1. C(A. The clerk is competed each other B. The shopper are comparing prices C. The man is not atracting a crowd D. The consumer are convincing the sales)
+2. Aren't pop ud ads on the Internet is on the fas (no they are here to stay, B. I put up with it a lot C. She is not fat) B x A
+3. Was the customer satisfy with our work? (A. Satisfaction guaranteed, B. Very, C. I found you customer today) A x B
+4. C
+5. D
+6. A
+7. ? X D
+8. ? X C
+9. A X B
+## Reading
+10. C
+11. A
+12. C
+13. A
+14. A x D
+15. B
+16. C
+17. A
+18. C (know 0 will V0) x D (bị động)
+19. B
+20. A
+21. C
+22. D
+23. B
+## New word
+1. clerk n: người làm thuê cho văn phòng, cửa hiệu
+2. crowd n: đám đông 
+3. put up with v: chịu đựng
+4. feature v,n: chiếu, mô tả 
+5. worthwhile[ˌwɜːθˈwaɪl] a: quan trọng, thú vị hoặc đáng bỏ thời gian, tiền của hoặc nỗ lực; đáng giá; bõ công
+6. old-fashioned premise n: nguyên tắc cổ điển
+7. foolproof a: ngu ngốc đến mấy cũng làm được
+8. sought[sɔːt] v: đã tìm kiếm 
