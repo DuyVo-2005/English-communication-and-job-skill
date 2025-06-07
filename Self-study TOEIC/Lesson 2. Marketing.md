@@ -27,7 +27,14 @@
 | ------------ | ------------------------------------------ | ------------- |
 | **Persuade** | Thuyết phục ai đó **làm** một việc gì      | **Hành động** |
 | **Convince** | Thuyết phục ai đó **tin** một điều gì đúng | **Niềm tin**  |
-
+8. clerk n: người làm thuê cho văn phòng, cửa hiệu
+9. crowd n: đám đông 
+10. put up with v: chịu đựng
+11. feature v,n: chiếu, mô tả 
+12. worthwhile[ˌwɜːθˈwaɪl] a: quan trọng, thú vị hoặc đáng bỏ thời gian, tiền của hoặc nỗ lực; đáng giá; bõ công
+13. old-fashioned premise n: nguyên tắc cổ điển
+14. foolproof a: ngu ngốc đến mấy cũng làm được
+15. sought[sɔːt] v: đã tìm kiếm 
 ## Word in context
 1. product
 2. market
@@ -66,12 +73,3 @@
 21. C
 22. D
 23. B
-## New word
-1. clerk n: người làm thuê cho văn phòng, cửa hiệu
-2. crowd n: đám đông 
-3. put up with v: chịu đựng
-4. feature v,n: chiếu, mô tả 
-5. worthwhile[ˌwɜːθˈwaɪl] a: quan trọng, thú vị hoặc đáng bỏ thời gian, tiền của hoặc nỗ lực; đáng giá; bõ công
-6. old-fashioned premise n: nguyên tắc cổ điển
-7. foolproof a: ngu ngốc đến mấy cũng làm được
-8. sought[sɔːt] v: đã tìm kiếm 
